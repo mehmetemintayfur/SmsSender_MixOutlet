@@ -1,0 +1,110 @@
+    *{
+    background-color: #fafafa;
+    }
+    /* Style for AddUser */
+    #maindiv{
+    display: block;
+    height: 720px;
+    width: 70%;
+    margin: auto;
+    border-style: solid;
+    border-width: 0.01em;
+    border-color: #e9e3e3 ;
+    padding: 20px;
+    margin-top: 30px;
+    background-color: #fff;
+    }
+
+    #baslik{
+    display: block;
+    margin: auto;    
+    width: %100;
+    text-align: center;
+    background-color: #fff;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    font-size: 28px;
+    color: rgb(18, 15, 121);
+    }
+
+    #form2{
+    background-color: #fff; 
+    }
+
+    #rnd{
+    display: flex;
+    background-color: #fff;
+    margin-top: 8px;
+    }
+
+    #isim{
+    display: block;
+    margin: auto;    
+    width: 40%;
+    border: 1px solid #e9e3e3 ;
+    background-color: #fafafa;
+    height: 42px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    }
+
+    #phone{
+    display: block;
+    margin: auto;    
+    width: 40%;
+    border: 1px solid #e9e3e3 ;
+    background-color: #fafafa;
+    height: 42px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    }
+
+
+    
+    #add{
+    display: block;
+    margin: auto;
+    width: 35%;
+    border: 1px solid #e9e3e3 ;
+    background-color: rgb(24, 153, 84);
+    height: 40px;
+    border-radius: 10px;
+    justify-content: center;
+    color: #fff;
+    font-size: 18px;
+    }
+
+    .chx{
+    display: block;
+    width: 40%;
+    background-color: #fff;    
+    height: 20px;
+    margin-bottom: 15px;
+    margin: auto;
+    }
+
+    .grid-containers{
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto ;
+    background-color: #ff;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    /*margin-left: 40px ; */
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    padding: 50px;
+    font-size: 18px;
+    }
+
+    .chx{
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .slc{
+        width: 170px;
+        height: 80px;
+        text-align: center;
+    }

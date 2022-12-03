@@ -1,0 +1,82 @@
+    *{
+    background-color: #fafafa;
+    }
+    /* Style for SendSms */
+    #maindiv{
+    display: block;
+    height: 640px;
+    width: 70%;
+    margin: auto;
+    border-style: solid;
+    border-width: 0.01em;
+    border-color: #e9e3e3 ;
+    padding: 20px;
+    margin-top: 40px;
+    background-color: #fff;
+    }
+
+    #baslik{
+    display: block;
+    margin: auto;    
+    width: %100;
+    text-align: center;
+    background-color: #fff;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    font-size: 28px;
+    color: rgb(18, 15, 121);
+    }
+
+    #msgbox{
+    width: 70%;
+    height: 34%;
+    background-color: #fff;
+    margin-left: 150px;
+    }
+
+    #form3{
+    background-color: #fff; 
+    width: 90%;
+    height: 70%;
+    margin: auto;
+    display: block;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    }
+
+    .grid-containers{
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto ;
+    background-color: #ff;
+    margin-top: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    padding: 50px;
+    font-size: 18px;
+    width: 90%;
+    height: 32%;
+    margin-bottom: 20px;
+    }
+
+
+    .slc{
+    width: 75%;
+    height: 14%;
+    text-align: center;
+    }
+
+    #send{
+    display: block;
+    margin: auto;
+    width: 35%;
+    border: 1px solid #e9e3e3 ;
+    background-color: rgb(24, 153, 84);
+    height: 40px;
+    border-radius: 10px;
+    justify-content: center;
+    color: #fff;
+    font-size: 18px;
+    }
